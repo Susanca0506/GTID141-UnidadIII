@@ -10,3 +10,12 @@
 ----------------------------------
 
 #### Ejercicios Prácticos
+| Actividad | Objetivo | Evidencia |
+|-----------|----------|-----------|
+
+----------------------------------
+
+#### Ejercicios NearPod
+| Actividad | Objetivo | Evidencia |
+|-----------|----------|-----------|
+| Concepto de Árboles | La actividad realizada a través de NearPod, tiene como objetivo el repaso de las diversas definiciones que proceden de los árboles en las estructuras de datos | [Evidencia Concepto de Arboles](https://github.com/Susanca0506/GTID141-UnidadIII/blob/37e65cdaf953375f791cdd52a5e477ae06ba00d9/Ejercicios%20Guiados/Conceptos%20de%20%C3%A1rboles.pdf) |
